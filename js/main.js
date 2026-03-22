@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-  const targetUrl = 'https://v.wjx.cn/vm/YXrorAW.aspx';
+  const targetUrl = 'https://docs.qq.com/doc/DU2JoeE5Pd1pVdVBG';
 
   const swiper = new Swiper('.swiper', {
     direction: 'horizontal',
